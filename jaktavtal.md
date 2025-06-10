@@ -107,7 +107,7 @@ Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom
 
 6.3 Om avtal upphör i förtid enligt § 9 på grund av Upplåtarens avtalsbrott, ska Upplåtaren ersätta Jakträttshavarna för samtliga investeringar till deras fulla anskaffnings‑kostnad.
 
-6.4 **Befintligt jakttorn.** Det på fastigheten befintliga jakttornet med sovmöjlighet, markerat på Bilaga 1, ingår i denna nyttjanderätt och får uteslutande nyttjas av Jakträttshavarna och deras gäster. Upplåtaren eller tredje man får inte använda tornet utan Jakträttshavarnas skriftliga samtycke, annat än vid nödläge eller för myndighetsutövning.
+6.4 **Befintliga jakttorn.** Det på fastigheten befintliga jakttornen med sovmöjlighet, markerade på Bilaga 1, ingår i denna nyttjanderätt och får uteslutande nyttjas av Jakträttshavarna och deras gäster. Upplåtaren eller tredje man får inte använda tornet utan Jakträttshavarnas skriftliga samtycke, annat än vid nödläge eller för myndighetsutövning.
 
 ---
 
