@@ -69,6 +69,8 @@ Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom
 
 3.6 **Avstyckning m.m.** Om den upplåtna fastigheten helt eller delvis avstyckas, sammanläggs eller på annat sätt fastighetsregleras ska nyttjanderätten bestå oförändrad och belasta samtliga nybildade registerenheter som omfattar jaktområdet. Upplåtaren (eller ny ägare) ska genom Lantmäteriet verka för att detta antecknas i förrättningsakten samt utan dröjsmål underrätta Jakträttshavarna skriftligen.  
 
+3.7 **Älgtilldelning** Jakträttshavarna äger rätt att företräda fastigheterna inför länsstyrelsen i frågor om licens- eller älgskötselområdesansökan, älgtilldelning och avskjutningsrapportering. Upplåtaren lämnar härmed fullmakt för detta ändamål. Fullmakten får inte återkallas av ny fastighetsägare utan skriftligt samtycke från samtliga Jakträttshavare. Återkallelse utan sådant samtycke saknar verkan men utgör avtalsbrott.
+
 
 ---
 
