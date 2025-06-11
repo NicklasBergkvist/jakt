@@ -6,27 +6,54 @@
 
 ## 1. Parter
 
-**Markägare (Upplåtare)**
+**Markägare (Upplåtare)**  
+*Fastigheten ägs med samäganderätt. Nedanstående delägare är gemensamt upplåtare i detta avtal.*  
 
-Namn/Firma: _________________________________________________
 
-Person‑/Org.nr: _____________________________________________
+**Markägare 1:**  
 
-Adress: _____________________________________________________
+Namn: _________________________________________________  
 
-**Jakträttshavare (Nyttjanderättshavare)**
+Personnummer: _________________________________________  
 
-1. Namn: _________________________________________________
+Adress: _______________________________________________  
 
-   Personnr: _____________________________________________
 
-   Adress: _______________________________________________
 
-2. Namn: _________________________________________________
+**Markägare 2:**  
 
-   Personnr: _____________________________________________
+Namn: _________________________________________________  
 
-   Adress: _______________________________________________
+Personnummer: _________________________________________  
+
+Adress: _______________________________________________  
+
+
+
+**Markägare 3:**  
+
+Namn: _________________________________________________  
+
+Personnummer: _________________________________________  
+
+Adress: _______________________________________________  
+
+
+**Jakträttshavare (Nyttjanderättshavare)**  
+
+Namn: _________________________________________________  
+
+Personnr: _____________________________________________  
+
+Adress: _______________________________________________  
+
+
+Namn: _________________________________________________  
+
+Personnr: _____________________________________________  
+
+Adress: _______________________________________________  
+
 
 Jakträttshavarna svarar solidariskt gentemot Upplåtaren för sina förpliktelser enligt avtalet, men åtnjuter var för sig full nyttjanderätt.
 
@@ -34,11 +61,11 @@ Jakträttshavarna svarar solidariskt gentemot Upplåtaren för sina förpliktels
 
 ## 2. Fastighet
 
-Fastighetsbeteckning: _________________________________________________
+Fastighetsbeteckning: ________________________________
 
-Kommun & Län: ________________________________________________________
+Kommun & Län: ________________________________________
 
-Totala arealen: ______________________________________________________
+Totala arealen: ______________________________________
 
 Registerbeteckningar:  
 
@@ -154,34 +181,57 @@ Svensk rätt ska tillämpas. Tvist prövas av **[Ange närmaste tingsrätt]** so
 
 ## 12. Underskrifter
 
-Avtalet har upprättats i tre (3) exemplar, ett för varje part och ett för inskrivning.
+Avtalet har upprättats i fem (5) exemplar, ett för varje part och ett för inskrivning.
 
 ---
-**Markägare (Upplåtare)**
 
-Ort och datum: _________________________________________________
+**Markägare 1**  
 
-Namnteckning: _________________________________________________
+Ort och datum: _________________________________________________  
+
+Namnteckning: _________________________________________________  
 
 Namnförtydligande: _____________________________________________  
 
 ---
 
-**Jakträttshavare 1**
+**Markägare 2**  
 
-Ort och datum: _________________________________________________
+Ort och datum: _________________________________________________  
 
-Namnteckning: _________________________________________________
+Namnteckning: _________________________________________________  
+
+Namnförtydligande: _____________________________________________  
+
+
+---
+
+**Markägare 3**  
+
+Ort och datum: _________________________________________________  
+
+Namnteckning: _________________________________________________  
 
 Namnförtydligande: _____________________________________________  
 
 ---
 
-**Jakträttshavare 2**
+**Jakträttshavare 1**  
 
-Ort och datum: _________________________________________________
+Ort och datum: _________________________________________________  
 
-Namnteckning: _________________________________________________
+Namnteckning: _________________________________________________  
+
+Namnförtydligande: _____________________________________________  
+
+
+---
+
+**Jakträttshavare 2**  
+
+Ort och datum: _________________________________________________  
+
+Namnteckning: _________________________________________________  
 
 Namnförtydligande: _____________________________________________  
 
