@@ -8,16 +8,30 @@ Detta intyg utfärdas av undertecknad markägare som bekräftelse på att exklus
 
 Jakträtten omfattar följande fastighet(er):
 
-**Registerbeteckning(ar):**
-1. ______________________________________________________
-2. ______________________________________________________
-3. ______________________________________________________
-3. ______________________________________________________
+**Registerbeteckning(ar):**  
+<br/><br/>
+1. ______________________________________________________  
+  <br/>
+
+2. ______________________________________________________  
+  <br/>
+
+3. ______________________________________________________  
+  <br/>
+
 4. ______________________________________________________
+<br/>
+
 5. ______________________________________________________
+<br/>
+
 6. ______________________________________________________
+<br/>
+
 7. ______________________________________________________
-8. ______________________________________________________
+<br/>
+
+8. ______________________________________________________  
 
 
 **Total areal:** ___________________ ha
@@ -29,12 +43,12 @@ Jakträtten omfattar följande fastighet(er):
 Härmed intygas att den exklusiva jakträtten på ovan angivna fastighet(er) är upplåten till:
 
 **Jakträttshavare 1:**
-* Namn: ____________________________
-* Personnummer: ____________________________
+* Namn: ______________________________________________________
+* Personnummer: ______________________________________________________
 
 **Jakträttshavare 2:**
-* Namn: ____________________________
-* Personnummer: ____________________________
+* Namn: ______________________________________________________
+* Personnummer: ______________________________________________________
 
 Vidare intygas att jakträttshavarna, gemensamt eller var för sig, äger full rätt att företräda fastigheten/fastigheterna gentemot Länsstyrelsen och andra myndigheter i alla frågor som rör viltförvaltning och älgtilldelning.
 
