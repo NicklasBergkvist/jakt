@@ -163,23 +163,28 @@ Ort och datum: _________________________________________________
 
 Namnteckning: _________________________________________________
 
-Namnförtydligande: _____________________________________________
+Namnförtydligande: _____________________________________________  
+
 ---
+
 **Jakträttshavare 1**
 
 Ort och datum: _________________________________________________
 
 Namnteckning: _________________________________________________
 
-Namnförtydligande: _____________________________________________
+Namnförtydligande: _____________________________________________  
+
 ---
+
 **Jakträttshavare 2**
 
 Ort och datum: _________________________________________________
 
 Namnteckning: _________________________________________________
 
-Namnförtydligande: _____________________________________________
+Namnförtydligande: _____________________________________________  
+
 ---
 
 *Parterna intygar genom sina underskrifter att de tagit del av avtalets innehåll och förbinder sig att följa detta.*
