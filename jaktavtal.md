@@ -2,7 +2,7 @@
 
 *Upprättat i enlighet med 10 kap. Jordabalken (1970:994), Jaktlagen (1987:259) och Jaktförordningen (1987:905). Avtalet avses att inskrivas hos Lantmäteriet för att gälla med sakrättsligt skydd mot tredje man (24 kap. 5 § JB).*
 
----
+<div style="page-break-after: always;"></div>
 
 ## 1. Parter
 
@@ -18,7 +18,7 @@ Personnummer: ______________________________________
 
 Adress: _______________________________________________  
 
----
+
 
 **Markägare 2:**  
 
@@ -28,7 +28,7 @@ Personnummer: ______________________________________
 
 Adress: _______________________________________________  
 
----
+
 
 **Markägare 3:**  
 
@@ -38,7 +38,7 @@ Personnummer: ______________________________________
 
 Adress: _______________________________________________  
 
----
+
 
 **Jakträttshavare *(Nyttjanderättshavare)***  
 
@@ -50,7 +50,7 @@ Personnr: _____________________________________________
 
 Adress: _______________________________________________    
 
----
+
 
 **Jakträttshavare 2:**  
 
@@ -63,7 +63,7 @@ Adress: _______________________________________________
 
 *Jakträttshavarna svarar solidariskt gentemot Upplåtaren för sina förpliktelser enligt avtalet, men åtnjuter var för sig full nyttjanderätt.*
 
----
+<div style="page-break-after: always;"></div>
 
 ## 2. Fastighet
 
@@ -102,7 +102,7 @@ Totala arealen: _______________________________________
 Karta över jaktområdet bifogas som **Bilaga 1** och utgör del av avtalet.  
 Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom jaktområdet
 
----
+
 
 ## 3. Upplåtelsens art och giltighet
 
@@ -121,12 +121,12 @@ Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom
 3.7 **Älgtilldelning** Jakträttshavarna äger rätt att företräda fastigheterna inför länsstyrelsen i frågor om licens- eller älgskötselområdesansökan, älgtilldelning och avskjutningsrapportering. Upplåtaren lämnar härmed fullmakt för detta ändamål. Fullmakten får inte återkallas av ny fastighetsägare utan skriftligt samtycke från samtliga Jakträttshavare. Återkallelse utan sådant samtycke saknar verkan men utgör avtalsbrott.
 
 
----
+
 
 ## 4. Jakträttens omfattning
 
 | Moment               | Villkor                                                                                                                                              |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -- | - |
 | **Viltarter**        | Samtliga viltarter som vid var tid är jaktbara enligt svensk lag.                                                                                    |
 | **Jakttider**        | Enligt Naturvårdsverkets då gällande föreskrifter (NFS) samt länsstyrelsens beslut.                                                                  |
 | **Vapen**            | Vapen, ammunition och fångstredskap som uppfyller gällande regler; tillstånd beviljat enligt vapenlagen.                                             |
@@ -134,7 +134,7 @@ Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom
 | **Gästande jägare**  | Jakträttshavarna får, utan särskilt godkännande, medföra gäster upp till fyra (4) personer vid varje jakttillfälle.                                  |
 | **Fordonstillträde** | Fri tillgång till befintliga och framtida vägar, parkeringsplatser och vändplaner inom området. Nycklar och koder till bommar utlämnas utan kostnad. |
 
----
+
 
 ## 5. Viltvård, säkerhet och skador
 
@@ -146,7 +146,7 @@ Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom
 
 5.4 Upplåtaren ansvarar för skador som uppkommer på **Jakträttshavarnas anläggningar och utrustning** (t.ex. jakttorn, kojor, kameror) till följd av skogsbruksåtgärder, förutsatt att Jakträttshavarna inte minst fjorton (14) dagar i förväg underrättats och givits möjlighet att vidta skyddsåtgärder.
 
----
+
 
 ## 6. Investeringar och förbättringar
 
@@ -158,7 +158,7 @@ Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom
 
 6.4 **Befintliga jakttorn.** Det på fastigheten befintliga jakttornen med sovmöjlighet, markerade på Bilaga 1, ingår i denna nyttjanderätt och får uteslutande nyttjas av Jakträttshavarna och deras gäster. Upplåtaren eller tredje man får inte använda tornet utan Jakträttshavarnas skriftliga samtycke, annat än vid nödläge eller för myndighetsutövning.
 
----
+
 
 ## 7. Överlåtelse av nyttjanderätten
 
@@ -168,13 +168,13 @@ Fastigheterna omfattar även framtida avstyckade eller sammanslagna enheter inom
 • juridisk person som helägs av någon av parterna, utan Upplåtarens samtycke, dock ska Upplåtaren skriftligen underrättas för registrering.  
 7.2 All annan överlåtelse kräver Upplåtarens skriftliga godkännande, vilket inte får vägras utan saklig grund.
 
----
+
 
 ## 8. Avgifter och skatter
 
 Avtalet är avgiftsfritt. Om framtida lagstiftning skulle belägga jakträttsupplåtelser med skatt eller avgift ska sådan kostnad bäras av markägaren, då villkoret om avgiftsfrihet är avtalets förutsättning.
 
----
+
 
 ## 9. Uppsägning och hävning
 
@@ -185,13 +185,13 @@ b) upprepad och dokumenterad vägran att efterfölja skriftlig rättelseorder av
 9.3 **Uppsägning av Jakträttshavare.** Jakträttshavarna äger rätt att säga upp avtalet med tre (3) månaders skriftlig uppsägningstid.  
 9.4 Vid tvist om hävning gäller avtalet i avvaktan på lagakraftvunnen dom.
 
----
+
 
 ## 10. Tvistlösning och tillämplig lag
 
 Svensk rätt ska tillämpas. Tvist prövas av närmaste tingsrätt som första instans.
 
----
+
 
 ## 11. Övrigt
 
@@ -199,13 +199,13 @@ Svensk rätt ska tillämpas. Tvist prövas av närmaste tingsrätt som första i
 11.2 Bilagor: Bilaga 1 (Karta).   
 11.3 Om någon bestämmelse skulle befinnas ogiltig ska övriga bestämmelser fortsätta att gälla och parterna ersätta den ogiltiga delen med villkor som så långt möjligt uppfyller avtalets syfte.
 
----
+<div style="page-break-after: always;"></div>
 
 ## 12. Underskrifter
 
 Avtalet har upprättats i fem (5) exemplar, ett för varje part och ett för inskrivning.
 
----
+
 
 **Markägare 1**  
 
@@ -215,7 +215,7 @@ Namnteckning: _________________________________________________
 
 Namnförtydligande: ____________________________________________  
 
----
+
 
 **Markägare 2**  
 
@@ -226,7 +226,7 @@ Namnteckning: _________________________________________________
 Namnförtydligande: ____________________________________________  
 
 
----
+
 
 **Markägare 3**  
 
@@ -236,7 +236,7 @@ Namnteckning: _________________________________________________
 
 Namnförtydligande: ____________________________________________  
 
----
+
 
 **Jakträttshavare 1**  
 
@@ -247,7 +247,7 @@ Namnteckning: _________________________________________________
 Namnförtydligande: ____________________________________________  
 
 
----
+
 
 **Jakträttshavare 2**  
 
@@ -257,6 +257,6 @@ Namnteckning: _________________________________________________
 
 Namnförtydligande: ____________________________________________  
 
----
+
 
 *Parterna intygar genom sina underskrifter att de tagit del av avtalets innehåll och förbinder sig att följa detta.*

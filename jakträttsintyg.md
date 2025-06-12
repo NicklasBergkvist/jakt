@@ -2,41 +2,41 @@
 
 Detta intyg utfärdas av undertecknad markägare som bekräftelse på att exklusiv jakträtt har upplåtits till nedan angivna personer. Intyget ska användas vid ansökan eller registrering av licens- eller älgskötselområde och vid årlig avskjutningsrapportering. Länsstyrelsen är behörig att granska och arkivera intyget som underlag för älgtilldelning och övriga viltförvaltningsbeslut.  
 
----
+<div style="page-break-after: always;"></div>
 
 ## 1. Fastigheter
 
 Jakträtten omfattar följande fastighet(er):
 
 **Registerbeteckning(ar):**  
-<br/><br/>
+
 1. ______________________________________________________  
-  <br/>
+
 
 2. ______________________________________________________  
-  <br/>
+  
 
 3. ______________________________________________________  
-  <br/>
+ 
 
 4. ______________________________________________________
-<br/>
+
 
 5. ______________________________________________________
-<br/>
+
 
 6. ______________________________________________________
-<br/>
+
 
 7. ______________________________________________________
-<br/>
+
 
 8. ______________________________________________________  
 
 
+
 **Total areal:** ___________________ ha
 
----
 
 ## 2. Jakträttshavare och företrädesrätt
 
@@ -46,13 +46,17 @@ Härmed intygas att den exklusiva jakträtten på ovan angivna fastighet(er) är
 * Namn: ______________________________________________________
 * Personnummer: ______________________________________________________
 
+---
+
 **Jakträttshavare 2:**
 * Namn: ______________________________________________________
 * Personnummer: ______________________________________________________
 
+---
+
 Vidare intygas att jakträttshavarna, gemensamt eller var för sig, äger full rätt att företräda fastigheten/fastigheterna gentemot Länsstyrelsen och andra myndigheter i alla frågor som rör viltförvaltning och älgtilldelning.
 
----
+<div style="page-break-after: always;"></div>
 
 ## 3. Markägares underskrifter
 
